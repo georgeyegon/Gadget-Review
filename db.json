@@ -1,0 +1,74 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Tecno Camon 30",
+      "image": "https://d3fyizz0b46qgr.cloudfront.net/global/phones/camon/30pro5g/20231032.png",
+      "description": "Here's what you need to know about the Tecno Camon 30 before making your pre-order. Here's what you need to know about the Tecno Camon 30 before making your pre-order. Here's what you need to know about the Tecno Camon 30 before making your pre-order.",
+      "views": 200
+    },
+    {
+      "id": "2",
+      "title": "Google Pixel 8 Pro",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYXANkWNWjuYWyZVGOZN4feelM27cbSjylFpKwmI8a6bQl05ItMlcI&usqp=CAE&s",
+      "description": "The Google Pixel 8 features a new Tensor G3 processor, the first Actua display on a Pixel, dual rear cameras, and Android 14 with seven years of software updates. At that price, the Pixel 8 is not only difficult to ignore, but perhaps the only phone you should be thinking of if you're shopping on a budget.",
+      "views": 0
+    },
+    {
+      "id": "3",
+      "title": "Samsung Galaxy Z Series",
+      "image": "data:image/jpeg;base64,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",
+      "description": "                  RAM: 12 GB\nInternal Storage: 256GB, 512GB\nBattery: 4,400 mAh\nRear Camera: 50MP + 12MP+ 10MP\nInner Camera: 4MP\nOuter Camera: 10MP\nDisplay: 7.6 inch, AMOLED, 120Hz\nCover display: 6.2 inch, AMOLED, 120Hz\nProcessor: Qualcomm Snapdragon 8 Gen 2\nConnectivity: Dual sim, 3G, 4G, 5G, VoLTE, Wi-Fi\nColors: Phantom Black, Cream, Icy Blue\nOS: Android 13, One UI 5.1.1\n                  ",
+      "views": 0
+    },
+    {
+      "id": "4",
+      "title": "iPhone 15.",
+      "image": "https://cdn.pixabay.com/photo/2022/05/04/07/38/iphone-13-pro-max-7173413_1280.jpg",
+      "description": "                  RAM: 6GB\nStorage: 128GB,256GB\nBattery: 3,200 mAh\nCamera: 48MP + 12 MP\nSelfie: 12MP + SL 3D\nDisplay: 6.1 inches\nProcessor: Apple A16 Bionic\nConnectivity: 5G, Nano-SIM, eSIM, Wi-Fi 6\nColors:   Black, Blue, Green, Yellow, Pink\nOS: iOS 17\n                  ",
+      "views": 0
+    },
+    {
+      "id": "5",
+      "title": "Nokia 5.4",
+      "image": "https://images.ctfassets.net/wcfotm6rrl7u/4IKzGpcmpOCvUyEN5QMi60/a853b5a476db0320b693fd2daf3d294c/nokia_5_4-DTC-display.png?w=881&h=615&fm=avif&q=88",
+      "description": "                  Make a lasting impression with Nokia 5.4. The 48MP Quad camera gives you total creative control – with advanced video recording and cinematic effects, you can capture your world in stunning detail. Do more of what you love thanks to 2-day battery life1 and the streamlined Qualcomm® Snapdragon™ 662 – performance you can rely on. Stay on top of everything with a phone that’s ready for Android 11 and beyond, so you can work and play, your way.\n                  ",
+      "views": 0
+    },
+    {
+      "id": "6",
+      "title": "Tecno Camon 30",
+      "image": "https://d3fyizz0b46qgr.cloudfront.net/global/phones/camon/30pro5g/20231032.png",
+      "description": "Here's what you need to know about the Tecno Camon 30 before making your pre-order. Here's what you need to know about the Tecno Camon 30 before making your pre-order. Here's what you need to know about the Tecno Camon 30 before making your pre-order.",
+      "views": 200
+    },
+    {
+      "id": "7",
+      "title": "Google Pixel 8 Pro",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYXANkWNWjuYWyZVGOZN4feelM27cbSjylFpKwmI8a6bQl05ItMlcI&usqp=CAE&s",
+      "description": "The Google Pixel 8 features a new Tensor G3 processor, the first Actua display on a Pixel, dual rear cameras, and Android 14 with seven years of software updates. At that price, the Pixel 8 is not only difficult to ignore, but perhaps the only phone you should be thinking of if you're shopping on a budget.",
+      "views": 0
+    },
+    {
+      "id": "8",
+      "title": "Samsung Galaxy Z Series",
+      "image": "data:image/jpeg;base64,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",
+      "description": "                  RAM: 12 GB\nInternal Storage: 256GB, 512GB\nBattery: 4,400 mAh\nRear Camera: 50MP + 12MP+ 10MP\nInner Camera: 4MP\nOuter Camera: 10MP\nDisplay: 7.6 inch, AMOLED, 120Hz\nCover display: 6.2 inch, AMOLED, 120Hz\nProcessor: Qualcomm Snapdragon 8 Gen 2\nConnectivity: Dual sim, 3G, 4G, 5G, VoLTE, Wi-Fi\nColors: Phantom Black, Cream, Icy Blue\nOS: Android 13, One UI 5.1.1\n                  ",
+      "views": 0
+    },
+    {
+      "id": "9",
+      "title": "iPhone 15.",
+      "image": "https://cdn.pixabay.com/photo/2022/05/04/07/38/iphone-13-pro-max-7173413_1280.jpg",
+      "description": "                                                      RAM: 6GB\nStorage: 128GB,256GB\nBattery: 3,200 mAh\nCamera: 48MP + 12 MP\nSelfie: 12MP + SL 3D\nDisplay: 6.1 inches\nProcessor: Apple A16 Bionic\nConnectivity: 5G, Nano-SIM, eSIM, Wi-Fi 6\nColors:   Black, Blue, Green, Yellow, Pink\nOS: iOS 17\n                  \n                  \n                  ",
+      "views": 0
+    },
+    {
+      "id": "10",
+      "title": "OPPO Reno11 Pro 5G",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDwu7mxFCCMmNv3I5qDiSrZerqMRYvVoRo6N2rcd5kzpzj1uG4tUIs&usqp=CAE&s",
+      "description": "RAM: 12GB\nStorage:  512GB\nOS: Android 14, ColorOS 14\nCamera: 50MP + 32MP + 8MP\nSelfie: 32MP\nDisplay: 6.74 inch, AMOLED,120Hz\nProcessor: Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm)\nConnectivity: Dual SIM, 3G, 4G, 5G\nColors: Black, Green, Silver\nBattery: 4,700 mAh, 67W",
+      "views": 0
+    }
+  ]
+}
