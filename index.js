@@ -11,7 +11,7 @@ function displayPosts(posts) {
     let cardsContainer = document.getElementById("cardsContainer")
     for(post of posts){
       cardsContainer.innerHTML += `
-    <div class="bg-white border border-gray-200 rounded-lg shadow">
+    <div class="bg-white md:p-4 md:m-2 border border-gray-200 rounded-lg shadow">
         <h5 class="text-center p-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">${post.title}</h5>
         <div class="flex flex-col items-center md:flex-row md:max-w-xl hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700">
           <img class="object-cover w-full rounded-t-lg h-96 md:h-auto md:w-48 md:rounded-none md:rounded-s-lg" src="${post.image}" alt="">
@@ -36,7 +36,7 @@ document.getElementById("postForm").addEventListener("submit", (event)=>{
     const image = document.getElementById("image").value
     const description = document.getElementById("description").value
     
-    fetch("http://localhost:3000/posts", {
+    fetch("http://localhost:3000/posts/", {
       method: "POST",
       headers: {
         "Content-Type": "application/json"
