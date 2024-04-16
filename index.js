@@ -1,5 +1,5 @@
 
-fetch("http://localhost:5000/posts")
+fetch("https://gadget-review.onrender.com/posts")
 .then((data)=> data.json() )
 .then((posts)=>{
   
@@ -36,7 +36,7 @@ document.getElementById("postForm").addEventListener("submit", (event)=>{
     const image = document.getElementById("image").value
     const description = document.getElementById("description").value
     
-    fetch("http://localhost:5000/posts/", {
+    fetch("https://gadget-review.onrender.com/posts/", {
       method: "POST",
       headers: {
         "Content-Type": "application/json"
@@ -57,7 +57,7 @@ document.getElementById("postForm").addEventListener("submit", (event)=>{
 
 // Function to edit data
 function editPost(id) {
-    fetch(`http://localhost:5000/posts/${id}`)
+    fetch(`https://gadget-review.onrender.com/posts/${id}`)
     .then((data) => data.json())
     .then((post) => {
         const updateContainer = document.getElementById("updateContainer")
@@ -98,7 +98,7 @@ function updatePost(id)
     const image = document.getElementById("imageUpdate").value
     const description = document.getElementById("descriptionUpdate").value
 
-    fetch(`http://localhost:5000/posts/${id}`, {
+    fetch(`https://gadget-review.onrender.com/posts/${id}`, {
       method: "PATCH",
       headers: {
         "Content-Type": "application/json"
@@ -120,7 +120,7 @@ function updatePost(id)
 //   Function to delete post
 function deletePost(id)
 {
-  fetch(`http://localhost:5000/posts/${id}`, {
+  fetch(`https://gadget-review.onrender.com/posts/${id}`, {
     method: "DELETE"
   })
   .then((data)=> data.json() )
