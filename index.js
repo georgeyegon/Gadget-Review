@@ -1,5 +1,5 @@
 
-fetch("https://gadget-review.onrender.com/posts")
+fetch("https://gadget-review-k9wx.onrender.com/posts")
 .then((data)=> data.json() )
 .then((posts)=>{
   
